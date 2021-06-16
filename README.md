@@ -6,3 +6,5 @@ The main objective of this project is to create a powerful Power BI dashboard to
 
 
 [Sales-insights-Data-analysis](https://nbviewer.jupyter.org/github/Shreyas285/Sales-insights-Data-analysis/blob/main/sales_insights.ipynb)
+
+[Sales-insights-Dashboard](https://app.powerbi.com/links/F-kY2mS1NW?ctid=e9bf890f-270f-4685-8d0a-1ae36b98e8c5&pbi_source=linkShare)
